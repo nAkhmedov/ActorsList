@@ -56,15 +56,23 @@
 		A2E632401FAB0FDF00EFBA1B /* CoreDataTableView */ = {
 			isa = PBXGroup;
 			children = (
-				A2E632411FAB0FDF00EFBA1B /* AppDelegate.swift */,
+				A2E632501FAB0FE000EFBA1B /* Info.plist */,
+				A2E632561FAB11B100EFBA1B /* SupportingFiles */,
 				A2E632431FAB0FDF00EFBA1B /* ViewController.swift */,
 				A2E632451FAB0FDF00EFBA1B /* Main.storyboard */,
-				A2E6324B1FAB0FDF00EFBA1B /* Assets.xcassets */,
-				A2E6324D1FAB0FE000EFBA1B /* LaunchScreen.storyboard */,
-				A2E632501FAB0FE000EFBA1B /* Info.plist */,
-				A2E632481FAB0FDF00EFBA1B /* CoreDataTableView.xcdatamodeld */,
 			);
 			path = CoreDataTableView;
+			sourceTree = "<group>";
+		};
+		A2E632561FAB11B100EFBA1B /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
+				A2E632411FAB0FDF00EFBA1B /* AppDelegate.swift */,
+				A2E6324B1FAB0FDF00EFBA1B /* Assets.xcassets */,
+				A2E6324D1FAB0FE000EFBA1B /* LaunchScreen.storyboard */,
+				A2E632481FAB0FDF00EFBA1B /* CoreDataTableView.xcdatamodeld */,
+			);
+			path = SupportingFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
